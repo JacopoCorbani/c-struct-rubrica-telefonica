@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650386547 source:c:\users\jakic\onedrive\documents\programmi c\rubrica telefonica (struct e file)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
